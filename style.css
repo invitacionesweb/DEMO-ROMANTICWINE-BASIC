@@ -327,7 +327,9 @@ footer .contenido{
     color: var(--color-secundario);
 }
 
-
+footer img {
+    width: 60px;
+}
 
 
 
